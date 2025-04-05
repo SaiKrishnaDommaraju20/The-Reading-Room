@@ -36,33 +36,16 @@ Technologies Used
 
 Frontend:
 
-React.js
-
-React Router for navigation
-
-Axios for HTTP requests
-
-Tailwind CSS / Bootstrap (or custom CSS for styling)
+React.js, React Router for navigation, Axios for HTTP requests, Tailwind CSS / Bootstrap (or custom CSS for styling)
 
 Backend:
 
-Node.js
-
-Express.js for RESTful API
-
-JWT for secure authentication
-
-bcrypt.js for password hashing
-
-Multer for image uploads (optional)
+Node.js, Express.js for RESTful API, JWT for secure authentication, bcrypt.js for password hashing, Multer for image uploads (optional)
 
 Database:
 
-MongoDB (via MongoDB Atlas or local)
-
-Mongoose for schema modeling and database interaction
+MongoDB (via MongoDB Atlas or local), Mongoose for schema modeling and database interaction
 
 Development Tools:
-Git & GitHub for version control
-Visual Studio Code for development
-Nodemon for auto-restart of the server during development
+
+Git & GitHub for version control, Visual Studio Code for development, Nodemon for auto-restart of the server during development
